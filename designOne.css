@@ -1,0 +1,115 @@
+/*
+BOILER PLATE CODE is by default has to be written in the file.
+CSS SELECTORS 
+- ID - 
+- CLASS - 
+- ELEMENT - for ex buttons tags in html
+*/
+nav {
+  width: 50%;
+  height: 50%;
+  align-content: center;
+  margin: 50px auto;
+  border: #333 solid 10px;
+  border-radius: 5px;
+}
+select {
+  width: 20px;
+  height: 20px;
+  display: flex;
+  margin: 8px;
+}
+.header {
+  width: 100%;
+  height: 50px;
+  text-align: left;
+  margin-top: 20px;
+  margin-left: 40px;
+}
+.header h1 {
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+}
+.header p {
+  margin: 0;
+  padding: 0;
+  font-size: 15px;
+  margin-top: 10px;
+  color: #333;
+}
+
+form{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: #000000;
+  font-family: arial, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 30px;
+  margin-bottom: 1px;
+}
+.dropdown{
+  display: inline-block;
+  margin-left: 40px;
+  border: none;
+}
+
+input[type=text] {
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 80%;
+  height: 100%;
+  padding: 12px 20px;
+  border: none;
+}
+
+textarea {
+  margin-top: 20px;
+  margin-left: 20px;
+  align-content: center;
+  width: 80%;
+  height: 100%;
+  padding: 12px 20px;
+  border: #000000;
+  border : 12px 20px;
+  text-align: left;
+  margin-bottom: 0px;
+}
+
+hr {
+  border:none;
+  height: 20px;
+  width: 80%;
+  height: 50px;
+  margin-top: 5px;
+  border-bottom: 1px solid #834a10fa;
+  box-shadow: 0 20px 20px -20px rgb(237, 236, 236);
+  margin: -50px auto 10px; 
+}
+
+button{
+  margin-top: 20px;
+  margin-left: 10%;
+  background-color: black;
+  color: aliceblue;
+  padding: 14px 20px;
+  border-radius: 2px;
+  cursor: pointer;
+  width: 80%;
+  border: none;
+}
+  
+.footer{
+  margin-top: 20px;
+  margin-left:10% ;
+  font-size: 10px;
+  color: #757575;
+  font-size: 15px;
+  margin: 20 40 20 40;
+}
